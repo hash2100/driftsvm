@@ -23,9 +23,9 @@
   - [x] adapt code to be device-independent (CUDA is faster)
   - [x] reduce C from 5.0 to 1.0 and observe error vectors, repeating learn/unlearn 500 patterns
 - [ ] weighted IDSVM
-  - [ ] make C individual for each pattern, adapt Migration and extend its unit test
-  - [ ] also extend Migration unit test for lambda
-  - [ ] vary C for a specific pattern on basic 2-vector solution, probing for SVs, EVs and RVs
+  - [x] make C individual for each pattern, adapt Migration and extend its unit test
+  - [x] also extend Migration unit test for lambda
+  - [x] vary C for a specific pattern on basic 2-vector solution, probing for SVs, EVs and RVs
   - [ ] define rectangular shift kernel and probe for a window of 20-40 patterns
   - [ ] define a linear shift kernel (timing info is needed here, check bibliography)
   - [ ] define an exponential shift kernel (same as above)
