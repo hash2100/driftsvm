@@ -9,7 +9,7 @@
 5. [EDDM-IWKDDS-2006, M. Garcia, _Early Drift Detection Method in The International Workshop on Knowledge Discovery from Data Stream_, code and datasets](https://web.archive.org/web/20070322063617/http://iaia.lcc.uma.es/Members/mbaena/papers/eddm/)
 6. [Weka, Single Classifier Drift](https://moa.cms.waikato.ac.nz/details/classification/using-weka/)
 7. [J. Gama, _A Survey on Concept Drift Adaptation_](https://www.win.tue.nl/~mpechen/publications/pubs/Gama_ACMCS_AdaptationCD_accepted.pdf) [**local**](bibliography/Gama_ACMCS_AdaptationCD_accepted.pdf)
-8. [R. Polikar,*Guest Editorial Learning in Nonstationary and Evolving Environments*](http://home.deib.polimi.it/alippi/pdf/guest_editorial_2014.pdf) [**local**](bibliography/guest_editorial_2014.pdf)
+8. [R. Polikar,*Guest Editorial Learning in Nonstationary and Evolving Environments*](http://home.deib.polimi.it/alippi/pdf/guest_editorial_2014.pdf) [**local**](bibliography/guest_editorial_2014.pdf) de adus tot
 
 ## Roadmap
 
