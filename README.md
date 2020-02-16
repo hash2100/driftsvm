@@ -10,6 +10,7 @@
 6. [Weka, Single Classifier Drift](https://moa.cms.waikato.ac.nz/details/classification/using-weka/)
 7. [J. Gama, _A Survey on Concept Drift Adaptation_](https://www.win.tue.nl/~mpechen/publications/pubs/Gama_ACMCS_AdaptationCD_accepted.pdf) [**local**](bibliography/Gama_ACMCS_AdaptationCD_accepted.pdf)
 8. [R. Polikar,*Guest Editorial Learning in Nonstationary and Evolving Environments*](http://home.deib.polimi.it/alippi/pdf/guest_editorial_2014.pdf) [**local**](bibliography/guest_editorial_2014.pdf) [content](https://dblp.org/db/journals/tnn/tnn25)
+9. [I. Zliobaite et al., *Active Learning with Drifting Streaming Data*](https://www.researchgate.net/publication/260354315_Active_Learning_With_Drifting_Streaming_Data) [**local**](bibliography/)
 
 ## Roadmap
 
@@ -26,7 +27,7 @@
   - [x] make C individual for each pattern, adapt Migration and extend its unit test
   - [x] also extend Migration unit test for lambda
   - [x] vary C for a specific pattern on basic 2-vector solution, probing for SVs, EVs and RVs
-  - [ ] define rectangular shift kernel and probe for a window of 20-40 patterns
+  - [x] define rectangular shift kernel and probe for a window of 20-40 patterns
   - [ ] define a linear shift kernel (timing info is needed here, check bibliography)
   - [ ] define an exponential shift kernel (same as above)
   - [ ] comparison with SoA (TBD)
