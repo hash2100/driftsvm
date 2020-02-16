@@ -10,7 +10,8 @@
 6. [Weka, Single Classifier Drift](https://moa.cms.waikato.ac.nz/details/classification/using-weka/)
 7. [J. Gama, _A Survey on Concept Drift Adaptation_](https://www.win.tue.nl/~mpechen/publications/pubs/Gama_ACMCS_AdaptationCD_accepted.pdf) [**local**](bibliography/Gama_ACMCS_AdaptationCD_accepted.pdf)
 8. [R. Polikar,*Guest Editorial Learning in Nonstationary and Evolving Environments*](http://home.deib.polimi.it/alippi/pdf/guest_editorial_2014.pdf) [**local**](bibliography/guest_editorial_2014.pdf) [content](https://dblp.org/db/journals/tnn/tnn25)
-9. [I. Zliobaite et al., *Active Learning with Drifting Streaming Data*](https://www.researchgate.net/publication/260354315_Active_Learning_With_Drifting_Streaming_Data) [**local**](bibliography/)
+9. [I. Zliobaite et al., *Active Learning with Drifting Streaming Data*](https://www.researchgate.net/publication/260354315_Active_Learning_With_Drifting_Streaming_Data) [**local**](bibliography/Active_Learning_With_Drifting_Streaming_Data.pdf)
+10. [M. Wozniak et al., *Active Learning Classification With Drifted Streaming Data*](https://www.sciencedirect.com/science/article/pii/S187705091631002X) [**local**](bibliography/ActiveLearningClassificationWithDriftedStreamingData.pdf)
 
 ## Roadmap
 
