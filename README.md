@@ -12,6 +12,14 @@
 8. [R. Polikar,*Guest Editorial Learning in Nonstationary and Evolving Environments*](http://home.deib.polimi.it/alippi/pdf/guest_editorial_2014.pdf) [**local**](bibliography/guest_editorial_2014.pdf) [content](https://dblp.org/db/journals/tnn/tnn25)
 9. [I. Zliobaite et al., *Active Learning with Drifting Streaming Data*](https://www.researchgate.net/publication/260354315_Active_Learning_With_Drifting_Streaming_Data) [**local**](bibliography/Active_Learning_With_Drifting_Streaming_Data.pdf)
 10. [M. Wozniak et al., *Active Learning Classification With Drifted Streaming Data*](https://www.sciencedirect.com/science/article/pii/S187705091631002X) [**local**](bibliography/ActiveLearningClassificationWithDriftedStreamingData.pdf)
+11. [S. Janardan et al., *Concept drift in Streaming Data Classification: Algorithms,
+Platforms and Issues*](https://www.sciencedirect.com/science/article/pii/S1877050917326881)
+
+## Concept drift papers with code / benchmarks
+1. [A. Saffari et al., *On-line Random Forests"](https://ieeexplore.ieee.org/document/5457447)
+  * [source code that works, with data](https://github.com/amirsaffari/online-random-forests)
+  * [presentation](https://pdfs.semanticscholar.org/7633/c95812dea716917e8b23b84df18e7b03614e.pdf)
+  * [continuation, 2010, does not build](https://github.com/amirsaffari/online-multiclass-lpboost)
 
 ## Roadmap
 
