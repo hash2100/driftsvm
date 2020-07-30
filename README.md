@@ -1,4 +1,4 @@
-# Drift SVM
+# Weighted Concept Drift SVM
 
 
 ## Bibliography
@@ -16,7 +16,7 @@
 ## Roadmap
 
 ### Code
-- [x] classic IDSVM
+- [x] Classic IDSVM
   - [x] solution for two opposite patterns
   - [x] insert/remove a pattern from the solution
   - [x] compare g() for polynomial kernel 
@@ -24,19 +24,20 @@
   - [x] remove 480 USPS patterns (from now on, kernel only)
   - [x] adapt code to be device-independent (CUDA is faster)
   - [x] reduce C from 5.0 to 1.0 and observe error vectors, repeating learn/unlearn 500 patterns
-- [ ] weighted IDSVM
+- [ ] Weighted IDSVM
   - [x] make C individual for each pattern, adapt Migration and extend its unit test
   - [x] also extend Migration unit test for lambda
   - [x] vary C for a specific pattern on basic 2-vector solution, probing for SVs, EVs and RVs
   - [x] define rectangular shift kernel and probe for a window of 20-40 patterns
-  - [ ] define a linear shift kernel (timing info is needed here, check bibliography)
-  - [ ] define an exponential shift kernel (same as above)
-  - [ ] comparison with SoA (TBD)
+  - [x] define a linear shift kernel (timing info is needed here, check bibliography)
+  - [x] define an exponential shift kernel (same as above)
+  - [x] comparison with classic SVM
+  - [x] time comparison for Forest Covertype
 
 ### Article
-- [ ] add bibliography
-- [ ] add latex template with todonotes package
-- [ ] define main structure
-- [ ] add theoretical considerations on incr/decr SVM
-- [ ] refine for weighted SVM section
-- [ ] TBD
+- [x] add bibliography
+- [x] add latex template with todonotes package
+- [x] define main structure
+- [x] add theoretical considerations on incr/decr SVM
+- [x] refine for weighted SVM section
+- [x] final draft
